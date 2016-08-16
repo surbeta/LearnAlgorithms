@@ -3,7 +3,7 @@ package com.surbeta.algorithms.ProgrammingModel1_1;
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
-public class Exercise_1_1_3 {
+public class Exercise1_1_3 {
 
 	public static void main(String[] args) {
 		int [] numbers = new int [3];
